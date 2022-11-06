@@ -35,6 +35,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/pstatev_7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pstatev_7-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:petiostatev2703@gmai.com"><img alt="Email" src="https://img.shields.io/badge/Email-petiostatev2703@gmai.com-blue?style=flat-square&logo=gmail"></a>
 </p>
